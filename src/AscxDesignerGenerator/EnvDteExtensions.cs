@@ -4,6 +4,8 @@ using System;
 using System.Diagnostics;
 using System.Xml;
 using Microsoft.VisualStudio;
+using Microsoft.VisualStudio.ProjectSystem;
+using Microsoft.VisualStudio.ProjectSystem.Properties;
 
 namespace AscxDesignerGenerator
 {
