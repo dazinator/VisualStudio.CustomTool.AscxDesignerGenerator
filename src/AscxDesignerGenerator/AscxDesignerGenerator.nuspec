@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>VisualStudio.Cps.AscxDesignerGenerator</id>    
+    <title>AscxDesignerGenerator</title>
+    <authors>Darrell Tunnell, Sean Werkema</authors>
+    <owners>Darrell Tunnell</owners>
+    <projectUrl>https://github.com/dazinator/Dazinate.Dnn</projectUrl>
+     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Contains a custom tool / generator for generating ascx.designer.cs files from ascx files. CPS based projects can re-use this tool.</description>
+    <releaseNotes>Intial Release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>CPS, VisualStudio, Generator, CustomTool, Ascx, Designer</tags>  
+  </metadata>
+
+</package>
